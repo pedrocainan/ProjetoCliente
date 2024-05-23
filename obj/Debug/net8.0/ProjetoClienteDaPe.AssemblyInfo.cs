@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoClienteDaPe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e0adadf2eedf36a49f3801fb65241342d473865")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b79cfd5597f2326ca174a1c3196ebcb863c26cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoClienteDaPe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoClienteDaPe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
